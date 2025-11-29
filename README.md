@@ -46,7 +46,7 @@ Cela donne une vision claire de la distribution des données.
 
 📂 Contenu du dépôt
 
-biostat.py : le code Python
+main.py : le code Python
 
 README.md : ce fichier d’explication
 
